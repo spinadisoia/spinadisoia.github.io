@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Variational Autoencoders: An Introduction"
+title: "Variational Autoencoders"
 date: 2024-08-13 10:00:00 +0000
 categories: [Machine Learning, Deep Learning]
 tags: [Autoencoders, VAE, Machine Learning]
