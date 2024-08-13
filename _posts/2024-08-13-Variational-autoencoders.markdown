@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Variational Autoencoders"
+title: "Variational Autoencoders CAMBIATO"
 date: 2024-08-13 10:00:00 +0000
 categories: [Machine Learning, Deep Learning]
 tags: [Autoencoders, VAE, Machine Learning]
@@ -10,7 +10,7 @@ tags: [Autoencoders, VAE, Machine Learning]
 
 Variational Autoencoders (VAEs) are a class of generative models that are used to learn latent representations of data. They are a type of autoencoder that introduces a probabilistic twist, in order to regularize the latent space and generate new data similar to input data.
 
-##  Autoencoder Basics
+## Autoencoder Basics
 
 Autoencoders are neural networks used to learn efficient representations of data, typically for the purpose of dimensionality reduction or feature learning.
 
@@ -18,9 +18,9 @@ Autoencoders are neural networks used to learn efficient representations of data
 
 Unlike traditional autoencoders, VAEs introduce a probabilistic layer to the encoding process. This allows them to generate new samples by sampling from the learned latent space.
 
-
 ## Variational Autoencoders
 
+ciao
 
 ## Applications of VAEs
 
