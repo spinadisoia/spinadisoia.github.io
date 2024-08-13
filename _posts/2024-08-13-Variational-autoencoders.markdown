@@ -23,6 +23,7 @@ Unlike traditional autoencoders, VAEs introduce a probabilistic layer to the enc
 ### 3. Applications of VAEs
 
 VAEs have a wide range of applications, including:
+
 - Image generation
 - Data denoising
 - Anomaly detection
@@ -35,4 +36,3 @@ Variational Autoencoders are a powerful tool in the machine learning toolkit, of
 
 - [Tutorial on VAEs](https://example.com/tutorial)
 - [Research Paper on VAEs](https://example.com/paper)
-
